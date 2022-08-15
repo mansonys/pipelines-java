@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sencyang/MansonTestProject/_apis/build/status/mansonys.pipelines-java?branchName=main)](https://dev.azure.com/sencyang/MansonTestProject/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
